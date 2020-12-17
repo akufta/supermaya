@@ -59,12 +59,12 @@
     <div class="l-page">
       {% include "partials/global/site-head.njk" %}
       <main id="main-content" tabindex="-1">
-        <div class="l-stack l-stack--large">
+        
           {% block content %}{% endblock content %}
           {% block foot %}
             {% include "partials/global/site-foot.njk" %}
           {% endblock %}
-        </div>
+  
       </main>
     </div>
     <script type="text/javascript" src="/js/service-worker.js"></script>

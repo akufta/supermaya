@@ -1,23 +1,23 @@
 module.exports = {
-  name: "Supermaya",
+  name: "Portfolio of Allison Kufta",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "Portfolio.",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
-  authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
+  authorEmail: "allisonkufta@gmail.com",
+   
+  authorName: "Allison",
   postsPerPage: 4,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
       background: "white",
       text: "black",
-      highlight: "#666",
+      highlight: "#55a4ed",
     },
     secondary: {
-      background: "black",
+      background: "#edeef5",
       text: "white",
-      highlight: "#666",
+      highlight: "#5567ed",
     },
   },
 
