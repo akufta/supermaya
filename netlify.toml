@@ -1,6 +1,0 @@
-[build]
-  environment = { NODE_VERSION = "12.0.0" }
-  command = "npm run build"
-  publish = "dist"
-[template.environment]
-  KEYSTONE_API = "https://richstaticwebsite.herokuapp.com/admin/api"
